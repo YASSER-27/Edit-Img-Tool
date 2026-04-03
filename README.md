@@ -1,7 +1,7 @@
 # Edit Img Tool
 
 
-[![Downloads](https://img.shields.io/npm/dm/edit-img-tool?style=flat-square)](#)
+[![Downloads](https://img.shields.io/npm/dm/edit-img-tool?style=flat-square)](https://github.com/YASSER-27/Edit-Img-Tool/releases/tag/1)
 
 > Edit Img Tool PC
 
