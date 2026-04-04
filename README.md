@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YASSER-27/Edit-Img-Tool/releases/tag/1">
+  <a href="https://github.com/YASSER-27/Edit-Img-Tool/releases/download/v2/Edit.Img.Tool.exe">
     <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
   <img src="https://img.shields.io/npm/dm/edit-img-tool?style=for-the-badge" alt="Downloads">
