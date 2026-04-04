@@ -3,7 +3,9 @@
 <p align="center">
   <img src="img/icon.png" width="120" alt="Logo">
   <br>
-  <b>A lightweight, fast, and powerful image editing utility for PC.</b>
+  <b> image editing utility for PC.</b>
+   <br>
+   <b>select and crop the areas you need (fast).</b>
 </p>
 
 <p align="center">
