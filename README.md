@@ -27,13 +27,13 @@
 
 | crop | Clear v1 |
 |---|---|
-|![assets\link.gif](assets\link.gif) | ![assets\clearv2.gif](assets\clearv2.gif)|
+|![assets\link.gif](assets/link.gif) | ![assets\clearv2.gif](assets/clearv2.gif)|
 
 ---
 Precision Cropping
- ![assets\Crop.gif](assets\Crop.gif)
+ ![assets\Crop.gif](assets/Crop.gif)
 4K Resolution  
- ![assets\clearv1.gif](assets\clearv1.gif)
+ ![assets\clearv1.gif](assets/clearv1.gif)
 
 🛠 Changelog
 Version 2.0.0 (Latest)
@@ -45,10 +45,10 @@ Initial release with basic crop and clear functions.
 ---
 ## Screenshots
 > v1.00 good but have one problem  : same name output 
+
 | Image | Image |
 |---|---|
-| ![img\YassirSnap_1775242039184.png](img/YassirSnap_1775242039184.png) | ![imgYassirSnap_1775242046594.png](img/YassirSnap_1775242046594.png) |
-
+| ![img\YassirSnap_1775242039184.png](img/YassirSnap_1775242039184.png) | ![imgYassirSnap_1775242046594.png](img/YassirSnap_1775242046594.png)|
 ---
 
 👤 Developer
