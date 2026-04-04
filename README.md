@@ -1,4 +1,4 @@
-# 📸 Edit Img Tool
+#  Edit Img Tool
 
 <p align="center">
   <img src="img/icon.png" width="120" alt="Logo">
