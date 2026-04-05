@@ -35,8 +35,8 @@
 ---
 
 <div align="right">
-  <img src="assets/Crop.gif" width="500" />
-  <img src="assets/clearv1.gif" width="500" />
+  <img src="assets/Crop.gif" width="400" />
+  <img src="assets/clearv1.gif" width="400" />
 </div>
 
 🛠 Changelog
