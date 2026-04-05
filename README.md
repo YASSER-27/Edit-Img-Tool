@@ -28,16 +28,13 @@
 ## Screenshots
 ## V2.0.0
 
-| crop | Clear v1 |
+| Precision Cropping | 4K Resolution |
 |---|---|
 |![assets\link.gif](assets/link.gif) | ![assets\clearv2.gif](assets/clearv2.gif)|
 
----
-
-<div align="right">
-  <img src="assets/Crop.gif" width="400" />
-  <img src="assets/clearv1.gif" width="400" />
-</div>
+| Precision Cropping | 4K Resolution |
+|---|---|
+|![assets\link.gif](assets/Crop.gif) | ![assets\clearv2.gif](assets/clearv1.gif)|
 
 🛠 Changelog
 Version 2.0.0 (Latest)
