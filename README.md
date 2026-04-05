@@ -23,6 +23,7 @@
 * **AI Enhancement (Clear V2):** Fix blurry images and upgrade them to **4K resolution**.
 * **Improved Workflow:** Faster processing and cleaner UI.
 * **Bug Fixes:** Resolved the "duplicate filename" issue from V1.
+* Muli image 4k
 
 ## Screenshots
 ## V2.0.0
@@ -32,10 +33,11 @@
 |![assets\link.gif](assets/link.gif) | ![assets\clearv2.gif](assets/clearv2.gif)|
 
 ---
-Precision Cropping
- ![assets\Crop.gif](assets/Crop.gif)
-4K Resolution  
- ![assets\clearv1.gif](assets/clearv1.gif)
+
+<div align="right">
+  <img src="assets/Crop.gif" width="500" />
+  <img src="assets/clearv1.gif" width="500" />
+</div>
 
 🛠 Changelog
 Version 2.0.0 (Latest)
@@ -44,14 +46,14 @@ Added: Advanced 4K resolution upscaling.
 Improved: Multi-format support and processing speed.
 Version 1.0.0
 Initial release with basic crop and clear functions.
----
+
 ## Screenshots
 > v1.00 good but have one problem  : same name output 
 
 | Image | Image |
 |---|---|
 | ![img\YassirSnap_1775242039184.png](img/YassirSnap_1775242039184.png) | ![imgYassirSnap_1775242046594.png](img/YassirSnap_1775242046594.png)|
----
+
 
 👤 Developer
 Created with ❤️ by Yasser-27.
